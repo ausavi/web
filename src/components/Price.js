@@ -236,7 +236,7 @@ const Price = ({ color }) => {
                 <h6 className="h6-md">Money Back Guarantee</h6>
                 {/* Text */}
                 <p>
-                  Explore OLMO Premium for 14 days. If it’s not a perfect fit,
+                  Explore AUSAVI Premium for 14 days. If it’s not a perfect fit,
                   receive a full refund.
                 </p>
               </div>

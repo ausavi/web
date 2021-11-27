@@ -44,7 +44,7 @@ const Fbrands1 = () => {
           <div className="col-lg-8">
             <div className="brands-title text-center">
               <p className="p-xl">
-                Over 2000+ companies are already using OLMO every day.
+                Over 2000+ companies are already using AUSAVI every day.
               </p>
             </div>
           </div>

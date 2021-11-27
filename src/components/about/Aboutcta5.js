@@ -8,15 +8,15 @@ const Aboutcta5 = () => {
             <div className="col-lg-8">
               <div className="cta-5-txt white-color text-center">
                 {/* Title */}
-                <h2 className="h2-xs">Get Started with OLMO Now</h2>
+                <h2 className="h2-xs">Get Started with AUSAVI Now</h2>
                 {/* Text */}
                 <p className="p-xl">
                   {`Join over 7,000 of the world's leading digital agencies and
-                    freelance designers who use OLMO to present their work`}
+                    freelance designers who use AUSAVI to present their work`}
                 </p>
                 {/* Button */}
                 <a
-                  href="#pricing-2"
+                  href="/pricing"
                   className="btn btn-skyblue tra-white-hover"
                 >
                   Get Started Now

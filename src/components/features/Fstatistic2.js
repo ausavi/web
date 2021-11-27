@@ -9,7 +9,7 @@ const Fstatistic2 = () => {
           <div className="col-lg-6">
             <div className="txt-block right-column wow fadeInLeft">
               <h3 className="h3-xs">
-                More than 65,000 users around the world are already using OLMO
+                More than 65,000 users around the world are already using AUSAVI
                 actively
               </h3>
             </div>

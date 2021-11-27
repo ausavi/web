@@ -10,7 +10,7 @@ const Fcta3 = () => {
               <div className="col-lg-7 col-lg-8">
                 <div className="cta-3-txt">
                   <h4 className="h4-xl">
-                    Try OLMO free for 14 days. Start your trial now and pick a
+                    Try AUSAVI free for 14 days. Start your trial now and pick a
                     plan later
                   </h4>
                 </div>

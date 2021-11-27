@@ -14,7 +14,7 @@ const Aboutcontent3 = () => {
                 {/* Section ID */}
                 <span className="section-id txt-upcase">Digital Strategy</span>
                 {/* Title */}
-                <h2 className="h2-xs">Start your online business with OLMO</h2>
+                <h2 className="h2-xs">Start your online business with AUSAVI</h2>
                 {/* Text */}
                 <p className="p-lg">
                   Quaerat sodales sapien euismod blandit at vitae ipsum primis

@@ -82,7 +82,7 @@ const contacts = () => {
                   <div className="col-md-12">
                     <p className="p-lg">Explain your question in details: </p>
                     <span>
-                      Your OS version, OLMO version &amp; build, steps you did.
+                      Your OS version, Ausavi version &amp; build, steps you did.
                       Be VERY precise!
                     </span>
                     <textarea

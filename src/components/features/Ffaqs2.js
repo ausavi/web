@@ -28,7 +28,7 @@ const Ffaqs2 = () => {
                 <div className="question wow fadeInUp">
                   {/* Question */}
                   <h5 className="h5-md">
-                    Can I see OLMO in action before purchasing?
+                    Can I see AUSAVI in action before purchasing?
                   </h5>
                   {/* Answer */}
                   <p className="p-lg">
@@ -41,7 +41,7 @@ const Ffaqs2 = () => {
                 <div className="question wow fadeInUp">
                   {/* Question */}
                   <h5 className="h5-md">
-                    What are the requirements for using OLMO?
+                    What are the requirements for using AUSAVI?
                   </h5>
                   {/* Answer */}
                   <p className="p-lg">
@@ -54,7 +54,7 @@ const Ffaqs2 = () => {
                 <div className="question wow fadeInUp">
                   {/* Question */}
                   <h5 className="h5-md">
-                    Can I use OLMO on different devices?
+                    Can I use AUSAVI on different devices?
                   </h5>
                   {/* Answer */}
                   <ul className="simple-list">
@@ -92,7 +92,7 @@ const Ffaqs2 = () => {
                 {/* QUESTION #5 */}
                 <div className="question wow fadeInUp">
                   {/* Question */}
-                  <h5 className="h5-md">How does OLMO handle my privacy?</h5>
+                  <h5 className="h5-md">How does AUSAVI handle my privacy?</h5>
                   {/* Answer */}
                   <p className="p-lg">
                     Etiam amet mauris suscipit sit amet in odio. Integer congue

@@ -49,7 +49,7 @@ const Header = ({
           <div className="wsmainwp clearfix">
             {/* HEADER LOGO */}
             <div className="desktoplogo">
-              <Link href="#">
+              <Link href="/">
                 <a className="logo-black">
                   <img src="/images/logo-01.png" alt="header-logo" />
                 </a>
@@ -61,11 +61,11 @@ const Header = ({
                   <img
                     src={`${
                       whiteLogo
-                        ? "/images/logo-white.png"
-                        : "/images/logo-02.png"
+                        ? "/images/logo-01.png" 
+                        : "/images/logo-01.png"
                     }`}
                     alt="header-logo"
-                  />
+                  /> {/* add white logo 👆 */}
                 </a>
               </Link>
             </div>
@@ -80,21 +80,21 @@ const Header = ({
               >
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href={`${"#features-8"}`}>
+                  <Link href={`${"/features"}`}>
                     Features
                   </Link>
                 </li>
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href={`${"#reviews-4"}`}>About us</Link>
+                  <Link href={`${"/about"}`}>About us</Link>
                 </li>
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href="#pricing-2">Pricing</Link>
+                  <Link href={`${"/pricing"}`}>Pricing</Link>
                 </li>
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href={`${"#faqs-2"}`}>FAQs</Link>
+                  <Link href={`${"/faqs"}`}>FAQs</Link>
                 </li>
                 {/* HEADER BUTTON */}
                 <li className="nl-simple">

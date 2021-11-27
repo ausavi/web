@@ -7,7 +7,7 @@ const Aboutfeatures8 = () => {
           <div className="col-lg-10 col-xl-8">
             <div className="section-title title-01 mb-70">
               {/* Title */}
-              <h2 className="h2-md">What Makes OLMO Different</h2>
+              <h2 className="h2-md">What Makes AUSAVI Different</h2>
               {/* Text */}
               <p className="p-xl">
                 Aliquam a augue suscipit, luctus neque purus ipsum neque dolor

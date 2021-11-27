@@ -449,7 +449,7 @@ const pricing = () => {
                   <h6 className="h6-md">Money Back Guarantee</h6>
                   {/* Text */}
                   <p>
-                    Explore OLMO Premium for 14 days. If it’s not a perfect fit,
+                    Explore AUSAVI Premium for 14 days. If it’s not a perfect fit,
                     receive a full refund.
                   </p>
                 </div>
@@ -483,7 +483,7 @@ const pricing = () => {
                 <div className="col-lg-7 col-lg-8">
                   <div className="cta-4-txt">
                     <h4 className="h4-xl">
-                      Try OLMO free for 14 days. Start your trial now and pick a
+                      Try AUSAVI free for 14 days. Start your trial now and pick a
                       plan later
                     </h4>
                   </div>
@@ -542,7 +542,7 @@ const pricing = () => {
                   <div className="question wow fadeInUp">
                     {/* Question */}
                     <h5 className="h5-sm">
-                      Can I see OLMO in action before purchasing?
+                      Can I see AUSAVI in action before purchasing?
                     </h5>
                     {/* Answer */}
                     <p className="p-lg">
@@ -555,7 +555,7 @@ const pricing = () => {
                   <div className="question wow fadeInUp">
                     {/* Question */}
                     <h5 className="h5-sm">
-                      What are the requirements for using OLMO?
+                      What are the requirements for using AUSAVI?
                     </h5>
                     {/* Answer */}
                     <p className="p-lg">
@@ -568,7 +568,7 @@ const pricing = () => {
                   <div className="question wow fadeInUp">
                     {/* Question */}
                     <h5 className="h5-sm">
-                      Can I use OLMO on different devices?
+                      Can I use AUSAVI on different devices?
                     </h5>
                     {/* Answer */}
                     <ul className="simple-list">
@@ -607,7 +607,7 @@ const pricing = () => {
                   {/* QUESTION #5 */}
                   <div className="question wow fadeInUp">
                     {/* Question */}
-                    <h5 className="h5-sm">How does OLMO handle my privacy?</h5>
+                    <h5 className="h5-sm">How does AUSAVI handle my privacy?</h5>
                     {/* Answer */}
                     <p className="p-lg">
                       Etiam amet mauris suscipit sit amet in odio. Integer
