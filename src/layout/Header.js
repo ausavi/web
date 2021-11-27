@@ -93,9 +93,9 @@ const Header = ({
                   <Link href={`${"/pricing"}`}>Pricing</Link>
                 </li>
                 {/* SIMPLE NAVIGATION LINK */}
-                <li className="nl-simple">
+                {/* <li className="nl-simple">
                   <Link href={`${"/faqs"}`}>FAQs</Link>
-                </li>
+                </li> */}
                 {/* HEADER BUTTON */}
                 <li className="nl-simple">
                   <Link href={`${"#content-4"}`}>
