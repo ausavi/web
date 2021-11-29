@@ -20,12 +20,16 @@ function MyApp({ Component, pageProps }) {
     <VideoState>
       <Head>
         <title>Ausavi.</title>
-        <meta property="description" content="Ausavi enables you to find high-intent buyers, close sales, and scale more quickly." key="description" />
+        <meta name="description" content="Ausavi enables you to find high-intent buyers, close sales, and scale more quickly." />
         <link
           rel="shortcut icon"
           type="image/x-icon"
           href="favicon.ico"
         />
+        <Head>
+          <meta property="og:title" content="Ausavi." key="title" />
+          <meta property="og:description" content="Ausavi enables you to find high-intent buyers, close sales, and scale more quickly." />
+        </Head>
       </Head>
       {preloader && <PreLoader />}
       <Component {...pageProps} />
