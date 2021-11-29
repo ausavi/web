@@ -20,6 +20,7 @@ function MyApp({ Component, pageProps }) {
     <VideoState>
       <Head>
         <title>Ausavi.</title>
+        <meta property="description" content="" key="description" />
         <link
           rel="shortcut icon"
           type="image/x-icon"
