@@ -10,29 +10,26 @@ const Fcontent1 = () => {
           <div className="col-md-7 col-lg-6 order-last order-md-2">
             <div className="txt-block left-column wow fadeInRight">
               {/* Section ID */}
-              <span className="section-id txt-upcase">Pixel Perfect</span>
+              <span className="section-id txt-upcase">Market Intelligence</span>
               {/* Title */}
               <h2 className="h2-xs">
-                {`We're making design better for everyone`}
+                {`Boost your revenue growth with Ausavi`}
               </h2>
               {/* List */}
               <ul className="simple-list">
                 <li className="list-item">
                   <p className="p-lg">
-                    Fringilla risus, luctus mauris orci auctor euismod iaculis
-                    luctus magna purus pretium ligula purus undo quaerat tempor
-                    sapien rutrum mauris quaerat ultrice
+                  Discover new consumers with an intuitive platform that includes over 62 million contact profiles, a chrome extension, an API, data enrichment, and account-based marketing.
                   </p>
                 </li>
                 <li className="list-item">
                   <p className="p-lg">
-                    Quaerat sodales sapien euismod purus blandit
+                  A sophisticated email search engine that enables you to connect with the important decision-makers that matter to you.
                   </p>
                 </li>
                 <li className="list-item">
                   <p className="p-lg">
-                    Nemo ipsam egestas volute turpis dolores undo ultrice
-                    aliquam quaerat at sodales sapien purus
+                  Simply refine your search by applying one of over 50 filters to identify prospects who match your ideal profile. Then, access their profile to obtain their direct contact details and initiate communication in a matter of seconds.
                   </p>
                 </li>
               </ul>

@@ -60,31 +60,21 @@ const Fcontent3 = () => {
                 {/* TEXT BOX */}
                 <div className="txt-box mb-20">
                   {/* Title */}
-                  <h5 className="h5-lg">Advanced Performance Made Easy</h5>
+                  <h5 className="h5-lg">Only the best quality data for you</h5>
                   {/* Text */}
                   <p className="p-lg">
-                    Quaerat sodales sapien euismod blandit at vitae ipsum primis
-                    undo and cubilia laoreet augue and luctus magna dolor luctus
-                    at egestas sapien vitae nemo egestas volute and turpis
-                    dolores aliquam quaerat sodales a sapien
+                  We are devoted to providing you with high-quality data, and we go to great measures to ensure that it is accurate and current. Outlined below is our stringent data collecting and verification method, as well as our real-time email verification tool. In short, when you unlock a lead's contact information on UpLead, our technology verifies the lead's email address on the spot. For bulk downloads, Ausavi offers real-time email verification before downloading your selected leads' information.
                   </p>
                 </div>
                 {/* TEXT BOX */}
                 <div className="txt-box">
                   {/* Title */}
-                  <h5 className="h5-lg">The Complete Software Solution</h5>
+                  <h5 className="h5-lg">Meticulous lead verification</h5>
                   {/* List */}
                   <ul className="simple-list">
                     <li className="list-item">
                       <p className="p-lg">
-                        Fringilla risus, luctus mauris auctor euismod an iaculis
-                        luctus magna purus pretium ligula purus and quaerat
-                      </p>
-                    </li>
-                    <li className="list-item">
-                      <p className="p-lg">
-                        Nemo ipsam egestas volute turpis dolores undo ultrice
-                        aliquam quaerat at sodales sapien purus
+                      How does this function exactly? A loading indicator appears when you click “Unlock” to access a lead's information (or use the bulk download feature to receive several leads' information). Ausavi offers three verification statuses: Valid, Invalid, and Accept All. If the lead's email server supports verification, the email is 97 percent+ verified at the time of download or export. Ausavi will show the email address without prompting. Invalid email addresses are automatically updated by our manual research staff.
                       </p>
                     </li>
                   </ul>

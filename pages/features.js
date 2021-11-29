@@ -13,7 +13,7 @@ import Freviews1 from "../src/components/features/Freviews1";
 import Fstatistic2 from "../src/components/features/Fstatistic2";
 import Ftabs2 from "../src/components/features/Ftabs2";
 import Layout from "../src/layout/Layout";
-
+ 
 const features = () => {
   return (
     <Layout
