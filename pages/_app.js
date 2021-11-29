@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }) {
     <VideoState>
       <Head>
         <title>Ausavi.</title>
-        <meta property="description" content="" key="description" />
+        <meta property="description" content="Ausavi enables you to find high-intent buyers, close sales, and scale more quickly." key="description" />
         <link
           rel="shortcut icon"
           type="image/x-icon"
