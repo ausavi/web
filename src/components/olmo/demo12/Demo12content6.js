@@ -12,12 +12,10 @@ const Demo12content6 = () => {
               {/* TEXT BOX */}
               <div className="txt-box mb-30">
                 {/* Title */}
-                <h5 className="h5-lg">Creative and Practical</h5>
+                <h5 className="h5-lg"></h5>
                 {/* Text */}
                 <p className="p-lg">
-                  Quaerat sodales sapien euismod blandit undo vitae ipsum primis
-                  and cubilia a laoreet augue and luctus magna dolor egestas
-                  luctus sapien vitae nemo egestas volute and turpis
+                Ausavi enables you to find high-intent buyers, close sales, and scale more quickly.
                 </p>
               </div>
               {/* TEXT BOX */}
