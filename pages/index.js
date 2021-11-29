@@ -15,7 +15,7 @@ import Demo6reviews4 from "../src/components/olmo/demo6/Demo6reviews4";
 import Demo6statistic1 from "../src/components/olmo/demo6/Demo6statistic1";
 import Demostatistic2 from "../src/components/olmo/demo6/Demostatistic2";
 import Layout from "../src/layout/Layout";
-
+ 
 const Demo6 = () => {
   return (
     <Layout

@@ -25,7 +25,7 @@ const VideoImage = ({ id, img, extraClass }) => {
       </a>
       <img
         className="img-fluid"
-        src={img ? img : "images/dashboard-07.png"}
+        src={img ? img : "images/dashboard-01.jpg"}
         alt="video-preview"
       />
     </Fragment>
@@ -71,7 +71,7 @@ const VideoWithBtn = ({ id, extraClass, defText }) => {
       onClick={() => showVideo(id ? id : "7e90gBu4pas")}
     >
       <span className="flaticon-play"></span>{" "}
-      {defText ? defText : "See OLMO in Action"}
+      {defText ? defText : "See Ausavi in Action"}
     </a>
   );
 };

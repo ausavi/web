@@ -12,10 +12,10 @@ const Demo6content10 = () => {
           <div className="col-md-10 col-lg-8">
             <div className="section-title title-02 mb-60">
               {/* Section ID */}
-              <span className="section-id txt-upcase">Extremely Flexible</span>
+              <span className="section-id txt-upcase">Sales &amp; Marketing</span>
               {/* Title */}
               <h2 className="h2-xs">
-                Discover powerful features to boost your productivity
+              Convert qualified leads &amp; Maximize sales efficiency
               </h2>
             </div>
           </div>

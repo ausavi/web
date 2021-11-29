@@ -8,16 +8,14 @@ const Demo6hero6 = () => {
             <div className="hero-6-txt">
               {/* Title */}
               <h2 className="h2-md">
-                Fresh Ideas. Thoughtful Design. Measurable Results
+              The revolution in B2B prospecting with the best industry insights
               </h2>
               {/* Text */}
               <p className="p-lg">
-                Feugiat primis ligula risus auctor egestas and augue viverra
-                mauri tortor in iaculis magna a feugiat mauris ipsum and
-                placerat viverra tortor gravida purus
+              Ausavi enables you to find high-intent buyers, close sales, and scale more quickly.
               </p>
               {/* HERO QUICK FORM */}
-              <form
+              <form 
                 name="quickform"
                 className="quick-form shadow-form"
                 onSubmit={(e) => e.preventDefault()}

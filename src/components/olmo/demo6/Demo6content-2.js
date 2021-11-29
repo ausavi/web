@@ -20,13 +20,10 @@ const Demo6content2 = () => {
               {/* TEXT BOX */}
               <div className="txt-box mb-20">
                 {/* Title */}
-                <h5 className="h5-lg">All Tools in One Place</h5>
+                <h5 className="h5-lg">Reinforce the Crux of your Business</h5>
                 {/* Text */}
                 <p className="p-lg">
-                  Quaerat sodales sapien euismod blandit at vitae ipsum primis
-                  undo and cubilia laoreet augue and luctus magna dolor luctus
-                  at egestas sapien vitae nemo egestas volute and turpis dolores
-                  aliquam quaerat sodales a sapien
+                Maintaining databases has never been so simple. Data that is out of current or incomplete might make your sales and marketing processes difficult to manage. Let Ausavi take care of your lead enrichment with an automatic, constantly updated data source. Data from your CRM and Marketing Automation will always be up to date, regardless of where it came from.
                 </p>
               </div>
               <hr />
@@ -37,7 +34,7 @@ const Demo6content2 = () => {
                 </div>
                 <div className="cbox-3-txt">
                   <h6 className="h6-lg">
-                    Egestas volute turpis dolores ultrice
+                  Improve your data-dependent workflows.
                   </h6>
                 </div>
               </div>
@@ -48,7 +45,7 @@ const Demo6content2 = () => {
                 </div>
                 <div className="cbox-3-txt">
                   <h6 className="h6-lg">
-                    Quaerat sodales sapien euismod purus
+                  Prioritize the most important accounts.  
                   </h6>
                 </div>
               </div>
@@ -58,7 +55,7 @@ const Demo6content2 = () => {
                   <span className="flaticon-check purple-color" />
                 </div>
                 <div className="cbox-3-txt">
-                  <h6 className="h6-lg">Luctus mauris orci auctor euismod</h6>
+                  <h6 className="h6-lg">Use Ausavi's hundreds of data points to bolster your database.</h6>
                 </div>
               </div>
               {/* CONTENT BOX #4 */}
@@ -67,7 +64,7 @@ const Demo6content2 = () => {
                   <span className="flaticon-check purple-color" />
                 </div>
                 <div className="cbox-3-txt">
-                  <h6 className="h6-lg">Magna dolor luctus at egestas</h6>
+                  <h6 className="h6-lg">Extensive and detailed data that can help you succeed</h6>
                 </div>
               </div>
             </div>

@@ -17,12 +17,10 @@ const Demo6features4 = () => {
                 {/* Text */}
                 <div className="fbox-txt">
                   {/* Title */}
-                  <h5 className="h5-md">Friendly Interface</h5>
+                  <h5 className="h5-md">Gain a 360-degree perspective of your market</h5>
                   {/* Text */}
                   <p className="p-lg">
-                    Porta semper lacus cursus feugiat primis ultrice ligula
-                    risus at auctor tempus feugiat impedit felis undo auctor
-                    augue mauris
+                  Utilize advanced data about your existing client base to define your Ideal Customer Profile (ICP).
                   </p>
                 </div>
               </div>
@@ -39,12 +37,10 @@ const Demo6features4 = () => {
                 {/* Text */}
                 <div className="fbox-txt">
                   {/* Title */}
-                  <h5 className="h5-md">Powerful Options</h5>
+                  <h5 className="h5-md">Use buying signals to identify potential customers.</h5>
                   {/* Text */}
                   <p className="p-lg">
-                    Porta semper lacus cursus feugiat primis ultrice ligula
-                    risus at auctor tempus feugiat impedit felis undo auctor
-                    augue mauris
+                  You can target specific accounts that are consuming relevant content from both the internet and your own web properties by employing behavioural activity on those accounts
                   </p>
                 </div>
               </div>
@@ -61,12 +57,10 @@ const Demo6features4 = () => {
                 {/* Text */}
                 <div className="fbox-txt">
                   {/* Title */}
-                  <h5 className="h5-md">File Manager</h5>
+                  <h5 className="h5-md">Scale ABM to the Next Level</h5>
                   {/* Text */}
                   <p className="p-lg">
-                    Porta semper lacus cursus feugiat primis ultrice ligula
-                    risus at auctor tempus feugiat impedit felis undo auctor
-                    augue mauris
+                  Identify, connect, and convert the most important buyer personas at the accounts that matter most to you.
                   </p>
                 </div>
               </div>
@@ -83,12 +77,10 @@ const Demo6features4 = () => {
                 {/* Text */}
                 <div className="fbox-txt">
                   {/* Title */}
-                  <h5 className="h5-md">Convert Media Files</h5>
+                  <h5 className="h5-md">Increase your lead generation and pipeline</h5>
                   {/* Text */}
                   <p className="p-lg">
-                    Porta semper lacus cursus feugiat primis ultrice ligula
-                    risus at auctor tempus feugiat impedit felis undo auctor
-                    augue mauris
+                  Utilize advanced insights and real-time buying signals to connect and engage with suitable prospects.
                   </p>
                 </div>
               </div>
@@ -105,12 +97,10 @@ const Demo6features4 = () => {
                 {/* Text */}
                 <div className="fbox-txt">
                   {/* Title */}
-                  <h5 className="h5-md">Files Sharing</h5>
+                  <h5 className="h5-md">Organize, Clean, and Enhance Your Data</h5>
                   {/* Text */}
                   <p className="p-lg">
-                    Porta semper lacus cursus feugiat primis ultrice ligula
-                    risus at auctor tempus feugiat impedit felis undo auctor
-                    augue mauris
+                  In real-time, append and update existing and incoming prospect data to ensure that information saved in your applications is always current and accurate.
                   </p>
                 </div>
               </div>
@@ -127,12 +117,10 @@ const Demo6features4 = () => {
                 {/* Text */}
                 <div className="fbox-txt">
                   {/* Title */}
-                  <h5 className="h5-md">Extensions &amp; Addons</h5>
+                  <h5 className="h5-md">Increase the Productivity of Your Sales Team</h5>
                   {/* Text */}
                   <p className="p-lg">
-                    Porta semper lacus cursus feugiat primis ultrice ligula
-                    risus at auctor tempus feugiat impedit felis undo auctor
-                    augue mauris
+                  Prospect with intention. Your sales staff may spend more time selling and less time researching when they have access to real-time buying signals and the appropriate contact data.
                   </p>
                 </div>
               </div>

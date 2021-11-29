@@ -7,12 +7,10 @@ const Features = () => {
           <div className="col-lg-10 col-xl-8">
             <div className="section-title title-01 mb-70">
               {/* Title */}
-              <h2 className="h2-md">We’re Better. Here’s Why…</h2>
+              <h2 className="h2-md">Your Success is our Success</h2>
               {/* Text */}
               <p className="p-xl">
-                Aliquam a augue suscipit, luctus neque purus ipsum neque dolor
-                primis a libero tempus, blandit and cursus varius and magnis
-                sapien
+              With our highly accurate B2B contact data and sales & market intelligence, you can harness your team's full potential.
               </p>
             </div>
           </div>
@@ -32,11 +30,10 @@ const Features = () => {
                   />
                 </div>
                 {/* Title */}
-                <h5 className="h5-md">Friendly Interface</h5>
+                <h5 className="h5-md">Sales Intelligence</h5>
                 {/* Text */}
                 <p className="p-lg">
-                  Feugiat primis ultrice semper lacus cursus feugiat undo primis
-                  ultrice a ligula an auctor tempus magnis
+                Unleashing the real power of your sales team is only a software away.
                 </p>
               </div>
             </div>
@@ -52,11 +49,10 @@ const Features = () => {
                   />
                 </div>
                 {/* Title */}
-                <h5 className="h5-md">Extremely Flexible</h5>
+                <h5 className="h5-md">Market Intelligence</h5>
                 {/* Text */}
                 <p className="p-lg">
-                  Feugiat primis ultrice semper lacus cursus feugiat undo primis
-                  ultrice a ligula an auctor tempus magnis
+                It shouldn't be this simple to market your product and get leads, but it actually is.
                 </p>
               </div>
             </div>
@@ -72,11 +68,10 @@ const Features = () => {
                   />
                 </div>
                 {/* Title */}
-                <h5 className="h5-md">Strong Encryption</h5>
+                <h5 className="h5-md">Ausavi API</h5>
                 {/* Text */}
                 <p className="p-lg">
-                  Feugiat primis ultrice semper lacus cursus feugiat undo primis
-                  ultrice a ligula an auctor tempus magnis
+                Ausavi's data can be used in conjunction with developer-friendly APIs to enable you to carry our precise data with you wherever you go.
                 </p>
               </div>
             </div>
