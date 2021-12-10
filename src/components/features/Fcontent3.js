@@ -71,13 +71,9 @@ const Fcontent3 = () => {
                   {/* Title */}
                   <h5 className="h5-lg">Meticulous lead verification</h5>
                   {/* List */}
-                  <ul className="simple-list">
-                    <li className="list-item">
                       <p className="p-lg">
                       How does this function exactly? A loading indicator appears when you click “Unlock” to access a lead's information (or use the bulk download feature to receive several leads' information). Ausavi offers three verification statuses: Valid, Invalid, and Accept All. If the lead's email server supports verification, the email is 97 percent+ verified at the time of download or export. Ausavi will show the email address without prompting. Invalid email addresses are automatically updated by our manual research staff.
                       </p>
-                    </li>
-                  </ul>
                 </div>{" "}
                 {/* END TEXT BOX */}
               </div>

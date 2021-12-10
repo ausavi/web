@@ -17,17 +17,17 @@ const about = () => {
       singlePage
     >
       <About2 />
-      <Aboutfeatures4 />
       <hr className="divider" />
       <Aboutstatistic4 />
       <hr className="divider" />
       <Aboutcontent3 />
-      <Aboutfeatures8 />
       <Aboutcontent5 />
       <Aboutteam1 />
+      {/* to be added later
       <Aboutreviews1 />
       <hr className="divider" />
-      <Aboutbrands2 />
+      <Aboutbrands2 /> 
+      */}
       <Aboutcta5 />
     </Layout>
   );

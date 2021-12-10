@@ -22,18 +22,14 @@ const features = () => {
     >
       <Fcontent1 />
       <Fcontent3 />
-      <Ffeatures8 />
+      {/* <Freviews1 /> */}
+      <Fcontent2a />
+      <Fcontent7 />
       <Fcontent2 />
-      <Ftabs2 />
       <Fbrands1 />
       <Fcontent10 />
       <Ffeatures4 />
       <hr className="divider" />
-      <Fstatistic2 />
-      <hr className="divider" />
-      <Freviews1 />
-      <Fcontent2a />
-      <Fcontent7 />
       <Ffaqs2 />
       <Fcta3 />
     </Layout>

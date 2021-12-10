@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Faq from "../src/components/Faq";
 import Features from "../src/components/Features";
 import Demo6brands2 from "../src/components/olmo/demo6/Demo6brands2";
@@ -28,14 +29,12 @@ const Demo6 = () => {
       <Demo6content10 />
       <Demo6features4 />
       <Demo6statistic1 />
-      <Demo6content6 />
-      <Demo6projects2 />
-      <hr className="divider" />
-      <Demostatistic2 />
       <hr className="divider" />
       <Demo6content2 />
+      {/* to be added later    
       <Demo6reviews4 />
       <Demo6brands2 />
+      */}
       <hr className="divider" />
       <Demo6content7 />
       <Faq />

@@ -12,25 +12,26 @@ function MyApp({ Component, pageProps }) {
   useEffect(() => {
     setPreloader(false);
     if (typeof window !== "undefined") {
-      window.WOW = require("wowjs");
+      const WOW = require('wowjs');
+      window.wow = new WOW.WOW({
+        live: false
+      });
     }
-    new WOW.WOW().init();
+    window.wow.init();
   }, []);
   return (
-    <VideoState>
-      <Head>
-        <title>Ausavi.</title>
-        <meta name="description" content="Ausavi enables you to find high-intent buyers, close sales, and scale more quickly." />
-        <link
-          rel="shortcut icon"
-          type="image/x-icon"
-          href="favicon.ico"
-        />
-        <Head>
-          <meta property="og:title" content="Ausavi." key="title" />
-          <meta property="og:description" content="Ausavi enables you to find high-intent buyers, close sales, and scale more quickly." />
-        </Head>
-      </Head>
+    <VideoState>  
+    <Head>
+      <title>Ausavi.</title>
+      <meta name="description" content="Ausavi enables you to find high-intent buyers, close sales, and scale more quickly." />
+      <link
+        rel="shortcut icon"
+        type="image/x-icon"
+        href="favicon.ico"
+      />
+      <meta property="og:title" content="Ausavi." key="title" />
+      <meta property="og:description" content="Ausavi enables you to find high-intent buyers, close sales, and scale more quickly." />
+    </Head>
       {preloader && <PreLoader />}
       <Component {...pageProps} />
     </VideoState>

@@ -1,21 +1,5 @@
 
 
-
-
-/*
-  Template Name: OLMO - Software, App, SaaS & Startup Landing Pages Pack
-  Theme URL: https://themeforest.net/user/jthemes
-  Description: OLMO - Software, App, SaaS & Startup Landing Pages Pack
-  Author: JThemes
-  Author URL: https://themeforest.net/user/jthemes
-  Version: 1.0.0
-  Website: www.jthemes.com
-  Tags: Responsive, HTML5, JThemes, One Page, Landing, Software, Mobile App, SaaS, Startup, Creative, Freelancers, Digital Product
-*/
-
-
-
-
 /* ==========================================================================
   01. GENERAL & BASIC STYLES
   =========================================================================== */
@@ -23,6 +7,8 @@
 html {
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
+  font-family: 'Poppins', 'Padauk', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;  
+  font-size: 90% !important;
 } 
 
 body {
@@ -39,6 +25,10 @@ body {
 
 .rtl-direction {
   text-align: right!important;
+}
+
+.resize {
+  height: 500px;
 }
 
 /*------------------------------------------*/
@@ -509,8 +499,8 @@ hr.divider {
 
 h1, h2, h3, h4, h5, h6 {  
   color: #2f353e;
-  font-family: 'Rubik', sans-serif;
-  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
   letter-spacing: -0.75px;
 }
 

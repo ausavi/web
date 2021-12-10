@@ -23,9 +23,9 @@ const VideoImage = ({ id, img, extraClass }) => {
           </div>
         </div>
       </a>
-      <img
-        className="img-fluid"
-        src={img ? img : "images/dashboard-01.jpg"}
+      <img 
+        className="img-fluid resize"
+        src={img ? img : "images/dashboard-01.png"}
         alt="video-preview"
       />
     </Fragment>
