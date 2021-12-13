@@ -17,15 +17,13 @@ const Aboutcontent3 = () => {
                 <h2 className="h2-xs">Start your online business with AUSAVI</h2>
                 {/* Text */}
                 <p className="p-lg">
-                  Quaerat sodales sapien euismod blandit at vitae ipsum primis
-                  undo and cubilia laoreet augue and luctus magna dolor luctus
-                  at egestas sapien vitae nemo egestas
+                The simple truth is that the world's most valuable resource is no longer oil, but data. And, by data we mean contacts of numerous prospects from your niche. We @Ausavi mines it out for you from the depths of the Digital world.
+It's simple to scrape millions of contacts and sell access to a database without concern for accuracy.
                 </p>
                 {/* Text */}
                 <p className="p-lg">
-                  Quaerat sodales sapien euismod blandit purus a purus ipsum
-                  primis in cubilia laoreet augue luctus magna dolor luctus and
-                  egestas sapien egestas vitae nemo volute
+                Assisting you in developing a clean prospecting list that you can immediately put into your sales tools and create fresh leads from? That is difficult.
+At Ausavi, data accuracy is our number one goal. That is why we are the only prospecting company that guarantees accuracy at or over 95%.
                 </p>
               </div>
             </div>{" "}
