@@ -9,11 +9,10 @@ const Demo6cta11 = () => {
             <div className="col-lg-7 col-lg-7">
               <div className="cta-11-txt">
                 {/* Title */}
-                <h2 className="h2-xs">Ready to Join AUSAVI?</h2>
+                <h2 className="h2-xs">Advance towards your growth goals with Ausavi</h2>
                 {/* Text */}
                 <p className="p-lg">
-                  Donec vel sapien augue integer urna vel turpis cursus porta,
-                  mauris augue luctus dolor velna auctor congue tempus
+                Whether you're a marketer aiming to increase your company's lead generation or a salesman attempting to contact a critical prospect, you can count on Ausavi to do the heavy lifting.
                 </p>
                 {/* Button */}
                 <Link href="#">

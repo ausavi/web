@@ -26,13 +26,10 @@ const Fcontent3 = () => {
                 {/* Section ID */}
                 <span className="section-id txt-upcase">Totally Optimized</span>
                 {/* Title */}
-                <h2 className="h2-xs">Work smarter with powerful features</h2>
+                <h2 className="h2-xs">Don't just go the market; take control of it.</h2>
                 {/* Text */}
                 <p className="p-lg">
-                  Quaerat sodales sapien euismod blandit at vitae ipsum primis
-                  undo and cubilia laoreet augue and luctus magna dolor luctus
-                  at egestas sapien vitae nemo egestas volute and turpis dolores
-                  aliquam quaerat sodales a sapien
+                AUSAVI's suite of products accelerates your pipeline by combining B2B intelligence and company contact data with engagement tools and dynamic workflows.
                 </p>
                 {/* Tools List */}
                 <div className="tools-list ico-40 mt-30">

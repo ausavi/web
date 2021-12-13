@@ -26,19 +26,14 @@ const Demo6content3 = () => {
                 {/* Section ID */}
                 <span className="section-id txt-upcase">Totally Optimized</span>
                 {/* Title */}
-                <h2 className="h2-xs">Work smarter with powerful features</h2>
+                <h2 className="h2-xs">Accelerate your business's growth with Ausavi's cutting-edge features.</h2>
                 {/* Text */}
                 <p className="p-lg">
-                  Quaerat sodales sapien euismod blandit purus a purus ipsum
-                  primis in cubilia laoreet augue luctus magna dolor luctus and
-                  egestas sapien egestas vitae nemo volute
+                Our solutions cut through the clutter with actionable insights built on a solid foundation of technical knowledge, allowing you to improve every element of your Go-To-Market strategy. These trustworthy insights enable sales, marketing, product, and strategy teams to make more informed choices.
                 </p>
                 {/* Text */}
                 <p className="p-lg">
-                  Quaerat sodales sapien euismod blandit at vitae ipsum primis
-                  undo and cubilia laoreet augue and luctus magna dolor luctus
-                  at egestas sapien vitae nemo egestas volute and turpis dolores
-                  aliquam quaerat sodales a sapien
+                We keep an eye on the digital infrastructure of more than 9 million businesses around the world to figure out what technology they use, how much they spend on technology, and when their contracts are up. This gives you the information you need to go to market.
                 </p>
               </div>
             </div>

@@ -8,10 +8,6 @@ import Fcontent7 from "../src/components/features/Fcontent7";
 import Fcta3 from "../src/components/features/Fcta3";
 import Ffaqs2 from "../src/components/features/Ffaqs2";
 import Ffeatures4 from "../src/components/features/Ffeatures4";
-import Ffeatures8 from "../src/components/features/Ffeatures8";
-import Freviews1 from "../src/components/features/Freviews1";
-import Fstatistic2 from "../src/components/features/Fstatistic2";
-import Ftabs2 from "../src/components/features/Ftabs2";
 import Layout from "../src/layout/Layout";
  
 const features = () => {

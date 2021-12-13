@@ -27,20 +27,17 @@ const Fcontent2a = () => {
               <ul className="simple-list">
                 <li className="list-item">
                   <p className="p-lg">
-                    Fringilla risus, luctus mauris orci auctor euismod iaculis
-                    luctus magna purus pretium ligula purus undo quaerat tempor
-                    sapien rutrum mauris quaerat ultrice
+                  Locate a target account on LinkedIn Sales Navigator and launch the Ausavi extension.
                   </p>
                 </li>
                 <li className="list-item">
                   <p className="p-lg">
-                    Quaerat sodales sapien euismod purus blandit
+                  Using LinkedIn's filters, you can narrow down your list of contacts. Ausavi can be used to gather data on any potential customer.
                   </p>
                 </li>
                 <li className="list-item">
                   <p className="p-lg">
-                    Nemo ipsam egestas volute turpis dolores undo ultrice
-                    aliquam quaerat at sodales sapien purus
+                  Update records at the same time as Ausavi routes your contacts. Prospecting may now begin for you and your team.
                   </p>
                 </li>
               </ul>

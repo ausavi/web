@@ -12,34 +12,20 @@ const Fcontent7 = () => {
               {/* TEXT BOX */}
               <div className="txt-box mb-25">
                 {/* Title */}
-                <h5 className="h5-lg">Manage Everything in One Place</h5>
+                <h5 className="h5-lg">Determine which accounts require your product.</h5>
                 {/* Text */}
                 <p className="p-lg">
-                  Quaerat sodales sapien euismod blandit at vitae ipsum primis
-                  undo and cubilia laoreet augue and luctus magna dolor luctus
-                  at egestas sapien vitae nemo egestas volute and turpis dolores
-                  aliquam quaerat sodales a sapien
+                Our data mining engine searches for patterns of technology adoption. Each record of a technological product is assigned an intensity level by the scoring algorithms. Reduced intensity levels are a factor in our future technology acquisition algorithms. The finding of such patterns is made feasible by our extensive data coverage and product history.
                 </p>
               </div>
               {/* TEXT BOX */}
               <div className="txt-box">
                 {/* Title */}
-                <h5 className="h5-lg">Advanced Control and Privacy</h5>
+                <h5 className="h5-lg">Engage in Marketing discussions that matter</h5>
                 {/* List */}
-                <ul className="simple-list">
-                  <li className="list-item">
-                    <p className="p-lg">
-                      Fringilla risus, luctus mauris auctor euismod an iaculis
-                      luctus magna purus pretium ligula purus and quaerat
+                <p className="p-lg">
+                    Nobody enjoys being sold to. Everybody in business-to-business (B2B) wants more meaningful conversations. With insights into your target accounts' present technology stack, you may initiate dialogues based on their technology-buying history.
                     </p>
-                  </li>
-                  <li className="list-item">
-                    <p className="p-lg">
-                      Nemo ipsam egestas volute turpis dolores undo ultrice
-                      aliquam quaerat at sodales sapien purus
-                    </p>
-                  </li>
-                </ul>
               </div>{" "}
               {/* END TEXT BOX */}
             </div>
