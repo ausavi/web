@@ -9,13 +9,11 @@ const About2 = () => {
               <div className="about-2-title">
                 {/* Title */}
                 <h2 className="h2-xl">
-                  Creativity and quality is our destination
+                Meet the people who are driving the innovation.
                 </h2>
                 {/* Text */}
                 <p className="p-xl">
-                  Quaerat sodales sapien and euismod blandit vitae ipsum primis
-                  cubilia undo laoreet augue luctus magna and dolor luctus
-                  egestas sapien
+                Our Ausavi crew is a high-energy, passionate bunch that rises early to tackle challenges and advance our product.
                 </p>
               </div>
             </div>

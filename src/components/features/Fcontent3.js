@@ -29,19 +29,13 @@ const Fcontent3 = () => {
                 <h2 className="h2-xs">Don't just go the market; take control of it.</h2>
                 {/* Text */}
                 <p className="p-lg">
-                AUSAVI's suite of products accelerates your pipeline by combining B2B intelligence and company contact data with engagement tools and dynamic workflows.
+                While leads are the bread and butter for sales teams, it's really bacon and eggs that seal the deal. The similarities between a good CRM lead and a bacon-egg sandwich is quite uncanny. Bread, butter, bacon, egg; accurate contact information, company data, conversion information, engagement history. Do you see what I mean?
+                </p>
+                <p className="p-lg">
+                Much like a restaurant skimping out on the ingredients in your overpriced bacon-egg sandwich, leads that lack essential components are not worth your while. The following checklist will help you get a better picture of what the perfect CRM lead looks like and where yours may be lacking.
                 </p>
                 {/* Tools List */}
-                <div className="tools-list ico-40 mt-30">
-                  {/* Text */}
-                  <h6 className="h6-xl">Technologies We Use:</h6>
-                  {/* Icons */}
-                  <span className="flaticon-html-5 text-black-50" />
-                  <span className="flaticon-css-3 text-black-50" />
-                  <span className="flaticon-wordpress-logo text-black-50" />
-                  <span className="flaticon-js text-black-50" />
-                  <span className="flaticon-diamond-1 text-black-50" />
-                </div>
+                
               </div>
             </div>{" "}
             {/* END TEXT BLOCK */}

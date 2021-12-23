@@ -9,7 +9,7 @@ import Aboutreviews1 from "../src/components/about/Aboutreviews1";
 import Aboutstatistic4 from "../src/components/about/Aboutstatistic4";
 import Aboutteam1 from "../src/components/about/Aboutteam1";
 import Layout from "../src/layout/Layout";
-
+ 
 const about = () => {
   return (
     <Layout
@@ -17,8 +17,6 @@ const about = () => {
       singlePage
     >
       <About2 />
-      <hr className="divider" />
-      <Aboutstatistic4 />
       <hr className="divider" />
       <Aboutcontent3 />
       <Aboutcontent5 />

@@ -10,9 +10,7 @@ const Aboutteam1 = () => {
               <h2 className="h2-md">One Team Many Talents</h2>
               {/* Text */}
               <p className="p-xl">
-                Aliquam a augue suscipit, luctus neque purus ipsum neque dolor
-                primis a libero tempus, blandit and cursus varius and magnis
-                sapien
+              Meet the people who are driving the innovation.
               </p>
             </div>
           </div>
