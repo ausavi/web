@@ -13,49 +13,33 @@ const Demo6statistic1 = () => {
             {/* STATISTIC BLOCK #1 */}
             <div id="sb-1-1" className="col">
               <div className="statistic-block wow fadeInUp">
-                {/* Digit */}
-                <h2 className="h2-xl statistic-number">
-                  {/* <Counter end={28} />% */}
-                  <Counter end={28} />%
-                </h2>
                 {/* Text */}
-                <h5 className="h5-lg">Faster Access</h5>
+                <h5 className="h5-lg">Prospects with accurate data</h5>
                 {/* Text */}
                 <p className="p-lg">
-                  Enim nullam tempor at sapien gravida donec a blandit integer
-                  posuere porta justo velna
+                Discover the contact information for your ideal customers and everyone else that stands in the way of a signed transaction.
                 </p>
               </div>
             </div>
             {/* STATISTIC BLOCK #2 */}
             <div id="sb-1-2" className="col">
               <div className="statistic-block wow fadeInUp">
-                {/* Digit */}
-                <h2 className="h2-xl statistic-number">
-                  <Counter end={54} />%
-                </h2>
                 {/* Text */}
-                <h5 className="h5-lg">Productivity</h5>
+                <h5 className="h5-lg">Approach any CEO</h5>
                 {/* Text */}
                 <p className="p-lg">
-                  Enim nullam tempor at sapien gravida donec a blandit integer
-                  posuere porta justo velna
+                Visit any company's website to instantly access enriched personnel data and communicate with decision makers.
                 </p>
               </div>
             </div>
             {/* STATISTIC BLOCK #3 */}
             <div id="sb-1-3" className="col">
               <div className="statistic-block wow fadeInUp">
-                {/* Digit */}
-                <h2 className="h2-xl statistic-number">
-                  <Counter end={36} />%
-                </h2>
                 {/* Text */}
-                <h5 className="h5-lg">Secure Access</h5>
+                <h5 className="h5-lg">Discover new avenues for growth</h5>
                 {/* Text */}
                 <p className="p-lg">
-                  Enim nullam tempor at sapien gravida donec a blandit integer
-                  posuere porta justo velna
+                Look for new clients and businesses that have similar target demographics. Qualify your pipeline and meet your goals faster.
                 </p>
               </div>
             </div>

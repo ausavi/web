@@ -48,40 +48,29 @@ const Demo6content3 = () => {
             <div className="col-lg-6 order-last order-lg-2">
               <div className="txt-block slim-column left-column wow fadeInRight">
                 {/* TEXT BOX */}
-                <div className="txt-box mb-20">
-                  {/* Title */}
-                  <h5 className="h5-lg">Advanced Performance Made Easy</h5>
-                  {/* Text */}
-                  <p className="p-lg">
-                    Quaerat sodales sapien euismod blandit at vitae ipsum primis
-                    undo and cubilia laoreet augue and luctus magna dolor luctus
-                    at egestas sapien vitae nemo egestas volute and turpis
-                    dolores aliquam quaerat sodales a sapien
-                  </p>
-                </div>
-                {/* TEXT BOX */}
                 <div className="txt-box">
                   {/* Title */}
-                  <h5 className="h5-lg">The Complete Software Solution</h5>
-                  {/* List */}
-                  <ul className="simple-list">
-                    <li className="list-item">
-                      <p className="p-lg">
-                        Fringilla risus, luctus mauris auctor euismod an iaculis
-                        luctus magna purus pretium ligula purus and quaerat
-                      </p>
-                    </li>
-                    <li className="list-item">
-                      <p className="p-lg">
-                        Nemo ipsam egestas volute turpis dolores undo ultrice
-                        aliquam quaerat at sodales sapien purus
-                      </p>
-                    </li>
+                  <h5 className="h5-lg">Identifying leads with high decision-making power</h5>
+                  <p className="p-lg">
+                  During the sales process, the decision maker is the individual who can make the authoritative decision to make a purchase without having to confer to anyone else. In B2B sales, they are typically in the C-suite and sign the check when the sale is made.
+                  </p>
+                  <h5>You will have the following details to identify the leads by</h5>
+                  <p className="p-lg">
+                  <ul>
+                    <b>
+                      <li>✔ Lead’s Company Size</li>
+                      <li>✔ Lead’s Company Name</li>
+                      <li>✔ Lead’s Title</li>
+                      <li>✔ Lead’s Location</li>
+                      <li>✔ Lead’s Industry Name</li>
+                      <li>✔ Lead’s Industry Group</li>
+                    </b>
                   </ul>
-                </div>
+                  </p>
+                </div>{" "}
                 {/* END TEXT BOX */}
               </div>
-            </div>
+            </div>{" "}
             {/* END TEXT BLOCK */}
             {/* CB WRAPPER */}
             <div className="col-lg-6 order-first order-lg-2">
@@ -90,43 +79,41 @@ const Demo6content3 = () => {
                 <div className="cb-holder wow fadeInLeft">
                   {/* CB BOX #1 */}
                   <div className="cb-single-box">
-                    <p className="p-lg cb-header">New Customers</p>
-                    <h2 className="h2-title-xs statistic-number">
-                      <sup>+</sup>
-                      {/* <Counter end={784} /> */}
-                      <Counter end={784} />
-                    </h2>
-                    <p className="p-md mt-5 ico-10">
-                      <span className="green-color">
-                        <span className="flaticon-" /> 4.6%
-                      </span>{" "}
-                      vs last 7 days
-                    </p>
+                    <p className="p-lg cb-header">Assist your search with Ausavi's ranking of firms based on signal strength,</p>
+                    <h5 className="h2-title-xs statistic-number">
+                    We offer the following details to identify the companies by
+                    </h5>
                   </div>
-                  <hr className="divider" />
+                  <hr />
                   {/* CB BOX #2 */}
                   <div className="cb-single-box">
+                    <b>
                     <ul className="simple-list">
                       <li className="list-item">
                         <p className="p-md">
-                          Fringilla risus luctus mauris auctor and purus euismod
-                          purus
+                        ⭐ Sales Growth
                         </p>
                       </li>
                       <li className="list-item">
                         <p className="p-md">
-                          Nemo ipsam volute turpis dolores ut quaerat sodales
-                          sapien
+                        🚀 Profit Growth
+                        </p>
+                      </li>
+                      <li className="list-item">
+                        <p className="p-md">
+                        ⚡ Employee Expense Growth
+                        </p>
+                      </li>
+                      <li className="list-item">
+                        <p className="p-md">
+                        🎯 Fixed Asset Growth 
                         </p>
                       </li>
                     </ul>
+                    </b>
                   </div>
                   {/* CB BOX #3 */}
-                  <div className="cb-single-box cb-box-rounded bg-green white-color mt-25">
-                    <h4 className="h4-lg">98.245</h4>
-                    <p className="p-lg">Ligula risus auctor tempus</p>
-                  </div>
-                </div>
+                </div>{" "}
                 {/* END CB HOLDER */}
                 {/* CB SHAPE */}
                 <div className="cb-shape-1">
@@ -145,10 +132,10 @@ const Demo6content3 = () => {
                   />
                 </div>
               </div>
-            </div>
+            </div>{" "}
             {/* END CB WRAPPER */}
           </div>
-        </div>
+        </div>{" "}
         {/* END BOTTOM ROW */}
       </div>
       {/* End container */}

@@ -26,21 +26,20 @@ const Fcontent3 = () => {
                 {/* Section ID */}
                 <span className="section-id txt-upcase">Totally Optimized</span>
                 {/* Title */}
-                <h2 className="h2-xs">Don't just go the market; take control of it.</h2>
+                <h2 className="h2-xs">Accelerate your business's growth with Ausavi's cutting-edge features.</h2>
                 {/* Text */}
                 <p className="p-lg">
-                While leads are the bread and butter for sales teams, it's really bacon and eggs that seal the deal. The similarities between a good CRM lead and a bacon-egg sandwich is quite uncanny. Bread, butter, bacon, egg; accurate contact information, company data, conversion information, engagement history. Do you see what I mean?
+                Our solutions cut through the clutter with actionable insights built on a solid foundation of technical knowledge, allowing you to improve every element of your Go-To-Market strategy. These trustworthy insights enable sales, marketing, product, and strategy teams to make more informed choices.
                 </p>
+                {/* Text */}
                 <p className="p-lg">
-                Much like a restaurant skimping out on the ingredients in your overpriced bacon-egg sandwich, leads that lack essential components are not worth your while. The following checklist will help you get a better picture of what the perfect CRM lead looks like and where yours may be lacking.
+                We keep an eye on the digital infrastructure of more than 9 million businesses around the world to figure out what technology they use, how much they spend on technology, and when their contracts are up. This gives you the information you need to go to market.
                 </p>
-                {/* Tools List */}
-                
               </div>
-            </div>{" "}
+            </div>
             {/* END TEXT BLOCK */}
           </div>
-        </div>{" "}
+        </div>
         {/* END TOP ROW */}
         {/* BOTTOM ROW */}
         <div className="bottom-row">
@@ -49,22 +48,25 @@ const Fcontent3 = () => {
             <div className="col-lg-6 order-last order-lg-2">
               <div className="txt-block slim-column left-column wow fadeInRight">
                 {/* TEXT BOX */}
-                <div className="txt-box mb-20">
-                  {/* Title */}
-                  <h5 className="h5-lg">Only the best quality data for you</h5>
-                  {/* Text */}
-                  <p className="p-lg">
-                  We are devoted to providing you with high-quality data, and we go to great measures to ensure that it is accurate and current. Outlined below is our stringent data collecting and verification method, as well as our real-time email verification tool. In short, when you unlock a lead's contact information on UpLead, our technology verifies the lead's email address on the spot. For bulk downloads, Ausavi offers real-time email verification before downloading your selected leads' information.
-                  </p>
-                </div>
-                {/* TEXT BOX */}
                 <div className="txt-box">
                   {/* Title */}
-                  <h5 className="h5-lg">Meticulous lead verification</h5>
-                  {/* List */}
-                      <p className="p-lg">
-                      How does this function exactly? A loading indicator appears when you click “Unlock” to access a lead's information (or use the bulk download feature to receive several leads' information). Ausavi offers three verification statuses: Valid, Invalid, and Accept All. If the lead's email server supports verification, the email is 97 percent+ verified at the time of download or export. Ausavi will show the email address without prompting. Invalid email addresses are automatically updated by our manual research staff.
-                      </p>
+                  <h5 className="h5-lg">Identifying leads with high decision-making power</h5>
+                  <p className="p-lg">
+                  During the sales process, the decision maker is the individual who can make the authoritative decision to make a purchase without having to confer to anyone else. In B2B sales, they are typically in the C-suite and sign the check when the sale is made.
+                  </p>
+                  <h5>You will have the following details to identify the leads by</h5>
+                  <p className="p-lg">
+                  <ul>
+                    <b>
+                      <li>✔ Lead’s Company Size</li>
+                      <li>✔ Lead’s Company Name</li>
+                      <li>✔ Lead’s Title</li>
+                      <li>✔ Lead’s Location</li>
+                      <li>✔ Lead’s Industry Name</li>
+                      <li>✔ Lead’s Industry Group</li>
+                    </b>
+                  </ul>
+                  </p>
                 </div>{" "}
                 {/* END TEXT BOX */}
               </div>
@@ -77,42 +79,40 @@ const Fcontent3 = () => {
                 <div className="cb-holder wow fadeInLeft">
                   {/* CB BOX #1 */}
                   <div className="cb-single-box">
-                    <p className="p-lg cb-header">New Customers</p>
-                    <h2 className="h2-title-xs statistic-number">
-                      <sup>+</sup>
-                      {/* <Counter end={784} /> */}
-                      <Counter end={784} />
-                    </h2>
-                    <p className="p-md mt-5 ico-10">
-                      <span className="green-color">
-                        <span className="flaticon-" /> 4.6%
-                      </span>{" "}
-                      vs last 7 days
-                    </p>
+                    <p className="p-lg cb-header">Assist your search with Ausavi's ranking of firms based on signal strength,</p>
+                    <h5 className="h2-title-xs statistic-number">
+                    We offer the following details to identify the companies by
+                    </h5>
                   </div>
-                  <hr className="divider" />
+                  <hr />
                   {/* CB BOX #2 */}
                   <div className="cb-single-box">
+                    <b>
                     <ul className="simple-list">
                       <li className="list-item">
                         <p className="p-md">
-                          Fringilla risus luctus mauris auctor and purus euismod
-                          purus
+                        ⭐ Sales Growth
                         </p>
                       </li>
                       <li className="list-item">
                         <p className="p-md">
-                          Nemo ipsam volute turpis dolores ut quaerat sodales
-                          sapien
+                        🚀 Profit Growth
+                        </p>
+                      </li>
+                      <li className="list-item">
+                        <p className="p-md">
+                        ⚡ Employee Expense Growth
+                        </p>
+                      </li>
+                      <li className="list-item">
+                        <p className="p-md">
+                        🎯 Fixed Asset Growth 
                         </p>
                       </li>
                     </ul>
+                    </b>
                   </div>
                   {/* CB BOX #3 */}
-                  <div className="cb-single-box cb-box-rounded bg-green white-color mt-25">
-                    <h4 className="h4-lg">98.245</h4>
-                    <p className="p-lg">Ligula risus auctor tempus</p>
-                  </div>
                 </div>{" "}
                 {/* END CB HOLDER */}
                 {/* CB SHAPE */}
@@ -137,7 +137,7 @@ const Fcontent3 = () => {
           </div>
         </div>{" "}
         {/* END BOTTOM ROW */}
-      </div>{" "}
+      </div>
       {/* End container */}
     </section>
   );

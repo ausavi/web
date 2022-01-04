@@ -27,12 +27,12 @@ const Fcontent2a = () => {
               <ul className="simple-list">
                 <li className="list-item">
                   <p className="p-lg">
-                  Locate a target account on LinkedIn Sales Navigator and launch the Ausavi extension.
+                  <b>Industry</b> - Your product may only be useful in particular businesses or sectors. As a result, targeting leads who do not belong to such industries or sectors makes little or no sense.
                   </p>
                 </li>
                 <li className="list-item">
                   <p className="p-lg">
-                  Using LinkedIn's filters, you can narrow down your list of contacts. Ausavi can be used to gather data on any potential customer.
+                  <b>Employee Strength</b> - If you're an enterprise-focused SaaS company that prices its goods depending on the number of users, it's not worth your time to target small businesses. If your product is in its early stages of development and cannot take the rigours of enterprise-level operation, you should concentrate your efforts on smaller enterprises.
                   </p>
                 </li>
                 <li className="list-item">

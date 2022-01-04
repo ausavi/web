@@ -106,7 +106,7 @@ const Header = ({
                           : "btn-tra-white orange-red-hover"
                       } last-link`}
                     >
-                      {getStartText ? "Get Started" : "Let's Started"}
+                      {getStartText ? "Get Started" : "Get Started"}
                     </a>
                   </Link>
                 </li>

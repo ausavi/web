@@ -11,9 +11,7 @@ const Footer = () => {
                 alt="footer-logo"
               />
               <p className="p-md">
-                Aliquam nullam tempor sapien donec and gravida congue an ipsum
-                porta justo velna auctor magna and laoreet augue an auctor
-                gravida donec
+              Ausavi enables you to cultivate an action-oriented culture, relentlessly pursue new clients, and remove ineffective selling chores throughout your whole line of business.
               </p>
             </div>
           </div>
@@ -26,46 +24,14 @@ const Footer = () => {
                     <a href="#">About Us</a>
                   </p>
                 </li>
-                <li>
+                {/* <li>
                   <p className="p-md">
                     <a href="#">Careers</a>
                   </p>
-                </li>
-                <li>
-                  <p className="p-md">
-                    <a href="#">Press &amp; Media</a>
-                  </p>
-                </li>
-                <li>
-                  <p className="p-md">
-                    <a href="#">Contact Us</a>
-                  </p>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="col-sm-6 col-md-3 col-lg-2">
-            <div className="footer-links mb-40">
-              <h6 className="h6-xl">Discover</h6>
-              <ul className="foo-links text-secondary clearfix">
-                <li>
-                  <p className="p-md">
-                    <a href="#">Our Blog</a>
-                  </p>
-                </li>
-                <li>
-                  <p className="p-md">
-                    <a href="#">Advertising</a>
-                  </p>
-                </li>
+                </li> */}
                 <li>
                   <p className="p-md">
                     <a href="#">Plans &amp; Pricing</a>
-                  </p>
-                </li>
-                <li>
-                  <p className="p-md">
-                    <a href="#">Testimonials</a>
                   </p>
                 </li>
               </ul>
@@ -85,16 +51,6 @@ const Footer = () => {
                     <a href="#">Privacy Policy</a>
                   </p>
                 </li>
-                <li>
-                  <p className="p-md">
-                    <a href="#">Cookie Policy</a>
-                  </p>
-                </li>
-                <li>
-                  <p className="p-md">
-                    <a href="#">Site Map</a>
-                  </p>
-                </li>
               </ul>
             </div>
           </div>
@@ -109,17 +65,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <p className="p-md">
-                    <a href="#">Editor Help</a>
-                  </p>
-                </li>
-                <li>
-                  <p className="p-md">
-                    <a href="#">Community</a>
-                  </p>
-                </li>
-                <li>
-                  <p className="p-md">
-                    <a href="#">Live Chatting</a>
+                    <a href="#">Contact Us</a>
                   </p>
                 </li>
               </ul>
@@ -152,11 +98,6 @@ const Footer = () => {
                 <li>
                   <p>
                     <a href="#">LinkedIn</a>
-                  </p>
-                </li>
-                <li className="last-li">
-                  <p>
-                    <a href="#">Dribbble</a>
                   </p>
                 </li>
               </ul>
