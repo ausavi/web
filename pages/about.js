@@ -20,7 +20,7 @@ const about = () => {
       <hr className="divider" />
       <Aboutcontent3 />
       <Aboutcontent5 />
-      <Aboutteam1 />
+      {/* <Aboutteam1 /> */}
       {/* to be added later
       <Aboutreviews1 />
       <hr className="divider" />

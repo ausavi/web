@@ -79,7 +79,6 @@ const Demo6content3 = () => {
                 <div className="cb-holder wow fadeInLeft">
                   {/* CB BOX #1 */}
                   <div className="cb-single-box">
-                    <p className="p-lg cb-header">Assist your search with Ausavi's ranking of firms based on signal strength,</p>
                     <h5 className="h2-title-xs statistic-number">
                     We offer the following details to identify the companies by
                     </h5>
@@ -113,6 +112,10 @@ const Demo6content3 = () => {
                     </b>
                   </div>
                   {/* CB BOX #3 */}
+                  <div className="cb-single-box cb-box-rounded bg-blue white-color mt-25">
+                    <h5 className="h4-lg">💡</h5>
+                    <p className="p-lg">Assist your search with Ausavi's ranking of firms based on signal strength</p>
+                  </div>
                 </div>{" "}
                 {/* END CB HOLDER */}
                 {/* CB SHAPE */}

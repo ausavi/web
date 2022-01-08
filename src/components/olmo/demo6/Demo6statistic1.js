@@ -1,4 +1,3 @@
-import Counter from "../../Counter";
 
 const Demo6statistic1 = () => {
   return (

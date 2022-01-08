@@ -11,9 +11,10 @@ const Fcontent2 = () => {
           {/* IMAGE BLOCK */}
           <div className="col-md-5 col-lg-6">
             <div className="rel img-block left-column video-preview wow fadeInRight">
-              <VideoImage
-                img="images/img-08.png"
-                extraClass="video-btn video-btn-xl bg-pink ico-90"
+            <img
+                className="img-fluid"
+                src="/images/img-08.png"
+                alt="content-image"
               />
             </div>
           </div>

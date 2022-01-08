@@ -25,8 +25,7 @@ const Demo6content10 = () => {
           <div className="col">
             <div className="img-block text-center video-preview wow fadeInUp">
               {/* Play Icon */}
-
-              <VideoImage />
+              {/* <VideoImage /> */}
             </div>
           </div>
         </div>

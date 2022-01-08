@@ -33,10 +33,10 @@ const Fcontent7 = () => {
           {/* END TEXT BLOCK */}
           {/* IMAGE BLOCK */}
           <div className="col-md-6 order-first order-md-2">
-            <div className="content-7-img wow fadeInRight">
+            <div className="content-3-img wow fadeInRight">
               <img
                 className="img-fluid"
-                src="/images/dashboard-04.png"
+                src="/images/dashboard-05.png"
                 alt="content-image"
               />
             </div>

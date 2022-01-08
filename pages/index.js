@@ -10,7 +10,7 @@ import Demo6hero6 from "../src/components/olmo/demo6/Demo6hero6";
 import Demo6Price from "../src/components/olmo/demo6/Demo6Price";
 import Demo6statistic1 from "../src/components/olmo/demo6/Demo6statistic1";
 import Layout from "../src/layout/Layout";
- 
+  
 const Demo6 = () => {
   return (
     <Layout

@@ -24,7 +24,7 @@ const Fcontent10 = () => {
         <div className="row">
           <div className="col">
             <div className="img-block text-center video-preview wow fadeInUp">
-              <VideoImage extraClass="video-btn video-btn-xl bg-pink ico-90" />
+              {/* <VideoImage extraClass="video-btn video-btn-xl bg-pink ico-90" /> */}
             </div>
           </div>
         </div>

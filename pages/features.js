@@ -9,7 +9,7 @@ import Fcta3 from "../src/components/features/Fcta3";
 import Ffaqs2 from "../src/components/features/Ffaqs2";
 import Ffeatures4 from "../src/components/features/Ffeatures4";
 import Layout from "../src/layout/Layout";
-  
+   
 const features = () => {
   return (
     <Layout

@@ -113,6 +113,10 @@ const Fcontent3 = () => {
                     </b>
                   </div>
                   {/* CB BOX #3 */}
+                  <div className="cb-single-box cb-box-rounded bg-blue white-color mt-25">
+                    <h5 className="h4-lg">💡</h5>
+                    <p className="p-lg">Assist your search with Ausavi's ranking of firms based on signal strength</p>
+                  </div>
                 </div>{" "}
                 {/* END CB HOLDER */}
                 {/* CB SHAPE */}

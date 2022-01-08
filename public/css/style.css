@@ -328,10 +328,10 @@ body {
 .bg-whitesmoke { background-color: #f4f4f9; }
 .bg-lavender { background-color: #ecf1f4; }
 .bg-snow { background-color: #fbfbfd; }
-.bg-blue { background-color: #0f53fa; }
+.bg-blue { background-color: #477bff; }
 .bg-indigo { background-color: #62147e; }
 .bg-skyblue { background-color: #0195ff; }
-.bg-stateblue { background-color: #6064e3; }
+.bg-stateblue { background-color: #477bff; }
 .bg-green { background-color: #0fbc49; }
 .bg-magenta { background-color: #562d57; }
 .bg-orange-red { background-color: #ff523d; }
@@ -1015,8 +1015,8 @@ ol.digit-list p {
 .scroll .stateblue-hover:hover, 
 .white-color .stateblue-hover:hover {
   color: #fff!important;
-  background-color: #6064e3;
-  border-color: #6064e3!important;
+  background-color: #477bff;
+  border-color: #477bff!important;
 }
 
 .btn-tra-stateblue, 

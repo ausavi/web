@@ -68,10 +68,10 @@ const Features = () => {
                   />
                 </div>
                 {/* Title */}
-                <h5 className="h5-md">Ausavi API</h5>
+                <h5 className="h5-md">Leads' Accuracy</h5>
                 {/* Text */}
                 <p className="p-lg">
-                Ausavi's data can be used in conjunction with developer-friendly APIs to enable you to carry our precise data with you wherever you go.
+                Ausavi provides fully vetted data sources, so you don't need to worry about inaccurate or missing data.
                 </p>
               </div>
             </div>

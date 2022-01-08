@@ -11,8 +11,12 @@ const Demo6content2 = () => {
           {/* IMAGE BLOCK */}
           <div className="col-md-5 col-lg-6">
             <div className="rel img-block left-column video-preview wow fadeInRight">
-              <VideoImage img="images/img-08.png" />
-            </div>
+            <img
+                className="img-fluid"
+                src="/images/img-08.png"
+                alt="hero-image"
+              />
+            </div> 
           </div>
           {/* TEXT BLOCK */}
           <div className="col-md-7 col-lg-6">
