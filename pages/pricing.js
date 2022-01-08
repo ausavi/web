@@ -62,31 +62,29 @@ const pricing = () => {
                     {/* Plan Title */}
                     <div className="pricing-plan-title">
                       <h5 className="h5-xs">Basic</h5>
-                      <h6 className="h6-sm bg-lightgrey">Save 30%</h6>
                     </div>
                     {/* Price */}
-                    <sup className="dark-color">$</sup>
-                    <span className="dark-color">7</span>
+                    <sup className="dark-color">₹</sup>
                     <sup className="validity dark-color">
-                      <span>.99</span> / month
+                      <span>5000</span> / month
                     </sup>
-                    <p className="p-md">Billed as $96 per year</p>
+                    <p className="p-sm">100 credits &bull; <i>1 credit ≈ ₹ 50</i></p>
                   </div>
                   {/* Plan Features  */}
                   <ul className="features">
                     <li>
                       <p className="p-md">
-                        <span>25</span> Projects
+                        Single User Account
                       </p>
                     </li>
                     <li>
                       <p className="p-md">
-                        <span>10</span> mySQL Database
+                        Verified Emails and Phone Numbers
                       </p>
                     </li>
                     <li>
                       <p className="p-md">
-                        <span>25 GB</span> of Storage
+                        Company Financial Details
                       </p>
                     </li>
                     <li>
@@ -113,31 +111,30 @@ const pricing = () => {
                     {/* Plan Title */}
                     <div className="pricing-plan-title">
                       <h5 className="h5-xs">Agency</h5>
-                      <h6 className="h6-sm bg-lightgrey">Save 25%</h6>
+                      <h6 className="h6-sm bg-skyblue white-color">Most Popular</h6>
                     </div>
                     {/* Price */}
-                    <sup className="dark-color">$</sup>
-                    <span className="dark-color">11</span>
+                    <sup className="dark-color">₹</sup>
                     <sup className="validity dark-color">
-                      <span>.25</span> / month
+                      <span>12000</span> / quarter
                     </sup>
-                    <p className="p-md">Billed as $135 per year</p>
+                    <p className="p-sm">240 credits &bull; <i>1 credit ≈ ₹ 50</i></p>
                   </div>
                   {/* Plan Features  */}
                   <ul className="features">
                     <li>
                       <p className="p-md">
-                        <span>100</span> Projects
+                        Single User Account
                       </p>
                     </li>
                     <li>
                       <p className="p-md">
-                        <span>25</span> mySQL Database
+                        Verified Emails and Phone Numbers
                       </p>
                     </li>
                     <li>
                       <p className="p-md">
-                        <span>80 GB</span> of Storage
+                        Company Financial Details
                       </p>
                     </li>
                     <li>
@@ -164,36 +161,34 @@ const pricing = () => {
                     {/* Plan Title */}
                     <div className="pricing-plan-title">
                       <h5 className="h5-xs">Advanced</h5>
-                      <h6 className="h6-sm bg-skyblue white-color">Popular</h6>
                     </div>
                     {/* Price */}
-                    <sup className="dark-color">$</sup>
-                    <span className="dark-color">15</span>
+                    <sup className="dark-color">₹</sup>
                     <sup className="validity dark-color">
-                      <span>.99</span> / month
+                      <span>45000</span> / year
                     </sup>
-                    <p className="p-md">Billed as $199 per year</p>
+                    <p className="p-sm">900 credits &bull; <i>1 credit ≈ ₹ 50</i></p>
                   </div>
                   {/* Plan Features  */}
                   <ul className="features">
                     <li>
                       <p className="p-md">
-                        <span>Unlimited</span> Projects
+                        Single User Account
                       </p>
                     </li>
                     <li>
                       <p className="p-md">
-                        <span>50</span> mySQL Database
+                        Verified Emails and Phone Numbers
                       </p>
                     </li>
                     <li>
                       <p className="p-md">
-                        <span>500 GB</span> of Storage
+                        Company Financial Details
                       </p>
                     </li>
                     <li>
                       <p className="p-md">
-                        <span>VIP</span> Support
+                        <span>Premium</span> Support
                       </p>
                     </li>
                   </ul>
@@ -332,155 +327,7 @@ const pricing = () => {
         </div>
       </section>
       {/* END CALL TO ACTION-4 */}
-      {/* FAQs-2
-			============================================= */}
-      <section id="faqs-2" className="wide-60 faqs-section division">
-        <div className="container">
-          {/* SECTION TITLE */}
-          <div className="row justify-content-center">
-            <div className="col-lg-10 col-xl-8">
-              <div className="section-title title-01 mb-80">
-                {/* Title */}
-                <h2 className="h2-md">Got Questions? Look Here</h2>
-                {/* Text */}
-                <p className="p-xl">
-                  Aliquam a augue suscipit, luctus neque purus ipsum neque dolor
-                  primis a libero tempus, blandit and cursus varius and magnis
-                  sapien
-                </p>
-              </div>
-            </div>
-          </div>
-          {/* FAQs-2 QUESTIONS */}
-          <div className="faqs-2-questions">
-            <div className="row row-cols-1 row-cols-lg-2">
-              {/* QUESTIONS HOLDER */}
-              <div className="col">
-                <div className="questions-holder pr-15">
-                  {/* QUESTION #1 */}
-                  <div className="question wow fadeInUp">
-                    {/* Question */}
-                    <h5 className="h5-sm">
-                      Can I see AUSAVI in action before purchasing?
-                    </h5>
-                    {/* Answer */}
-                    <p className="p-lg">
-                      Etiam amet mauris suscipit in odio integer congue metus
-                      vitae arcu mollis blandit ultrice ligula egestas and magna
-                      suscipit lectus magna suscipit luctus blandit vitae
-                    </p>
-                  </div>
-                  {/* QUESTION #2 */}
-                  <div className="question wow fadeInUp">
-                    {/* Question */}
-                    <h5 className="h5-sm">
-                      What are the requirements for using AUSAVI?
-                    </h5>
-                    {/* Answer */}
-                    <p className="p-lg">
-                      An enim nullam tempor sapien gravida a donec ipsum enim an
-                      porta justo integer at velna vitae auctor integer congue
-                      undo magna at pretium purus pretium
-                    </p>
-                  </div>
-                  {/* QUESTION #3 */}
-                  <div className="question wow fadeInUp">
-                    {/* Question */}
-                    <h5 className="h5-sm">
-                      Can I use AUSAVI on different devices?
-                    </h5>
-                    {/* Answer */}
-                    <ul className="simple-list">
-                      <li className="list-item">
-                        <p className="p-lg">
-                          Fringilla risus, luctus mauris orci auctor purus
-                          ligula euismod pretium purus pretium rutrum tempor
-                          sapien
-                        </p>
-                      </li>
-                      <li className="list-item">
-                        <p className="p-lg">
-                          Nemo ipsam egestas volute turpis dolores ut aliquam
-                          quaerat sodales sapien undo pretium a purus
-                        </p>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>{" "}
-              {/* END QUESTIONS HOLDER */}
-              {/* QUESTIONS HOLDER */}
-              <div className="col">
-                <div className="questions-holder pl-15">
-                  {/* QUESTION #4 */}
-                  <div className="question wow fadeInUp">
-                    {/* Question */}
-                    <h5 className="h5-sm">Do you have a free trial?</h5>
-                    {/* Answer */}
-                    <p className="p-lg">
-                      Cubilia laoreet augue egestas and luctus donec curabite
-                      diam vitae dapibus libero and quisque gravida donec and
-                      neque. Blandit justo aliquam molestie nunc sapien
-                    </p>
-                  </div>
-                  {/* QUESTION #5 */}
-                  <div className="question wow fadeInUp">
-                    {/* Question */}
-                    <h5 className="h5-sm">How does AUSAVI handle my privacy?</h5>
-                    {/* Answer */}
-                    <p className="p-lg">
-                      Etiam amet mauris suscipit sit amet in odio. Integer
-                      congue leo metus. Vitae arcu mollis blandit ultrice ligula
-                    </p>
-                    {/* Answer */}
-                    <p className="p-lg">
-                      An enim nullam tempor sapien gravida donec congue leo
-                      metus. Vitae arcu mollis blandit integer at velna
-                    </p>
-                  </div>
-                  {/* QUESTION #6 */}
-                  <div className="question wow fadeInUp">
-                    {/* Question */}
-                    <h5 className="h5-sm">I have an issue with my account</h5>
-                    {/* Answer */}
-                    <ul className="simple-list">
-                      <li className="list-item">
-                        <p className="p-lg">
-                          Fringilla risus, luctus mauris orci auctor purus
-                        </p>
-                      </li>
-                      <li className="list-item">
-                        <p className="p-lg">
-                          Quaerat sodales sapien euismod blandit purus and ipsum
-                          primis in cubilia laoreet augue luctus
-                        </p>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>{" "}
-              {/* END QUESTIONS HOLDER */}
-            </div>{" "}
-            {/* End row */}
-          </div>{" "}
-          {/* END FAQs-2 QUESTIONS */}
-          {/* MORE QUESTIONS BUTTON */}
-          <div className="row">
-            <div className="col">
-              <div className="more-questions">
-                <h5 className="h5-sm">
-                  Have more questions?{" "}
-                  <Link href="/contacts">
-                    <a>Ask your question here</a>
-                  </Link>
-                </h5>
-              </div>
-            </div>
-          </div>
-        </div>{" "}
-        {/* End container */}
-      </section>
-      {/* END FAQs-2 */}
+     
       {/* TESTIMONIALS-1
 			============================================= */}
     </Layout>
