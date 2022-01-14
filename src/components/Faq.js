@@ -28,40 +28,36 @@ const Faq = () => {
                 <div className="question wow fadeInUp">
                   {/* Question */}
                   <h5 className="h5-md">
-                    Ut nostrud mollit quis eiusmod ut?
+                  I can't find a specific company. What do I do?
                   </h5>
                   {/* Answer */}
                   <p className="p-lg">
-                    Etiam amet mauris suscipit in odio integer congue metus
-                    vitae arcu mollis blandit ultrice ligula egestas and magna
-                    suscipit lectus magna suscipit luctus blandit vitae
+                  So you want to look up a particular company but can't find it in our database. You've tried searching for it on the Companies page but no luck.
+When you're in this situation, click on the "Ask Us" on the dashboard under the Query section to let us know you're looking for information on this particular company.
                   </p>
                 </div>
                 {/* QUESTION #2 */}
                 <div className="question wow fadeInUp">
                   {/* Question */}
                   <h5 className="h5-md">
-                    Labore irure qui Lorem excepteur incididunt commodo tempor.?
+                  I need more direct dials. What do I do?
                   </h5>
                   {/* Answer */}
                   <p className="p-lg">
-                    An enim nullam tempor sapien gravida a donec ipsum enim an
-                    porta justo integer at velna vitae auctor integer congue
-                    undo magna at pretium purus pretium
+                  If you're searching for more leads for a particular company or just looking for direct dials of decision-makers, you can let us know by clicking on the "Ask Us" button on the dashboard under the Query section.
                   </p>
                 </div>
                 {/* QUESTION #3 */}
                 <div className="question wow fadeInUp">
                   {/* Question */}
                   <h5 className="h5-md">
-                    Commodo mollit non sint et duis nisi nulla.?
+                  Why are some data points missing for some companies?
                   </h5>
                   {/* Answer */}
                   <ul className="simple-list">
                     <li className="list-item">
                       <p className="p-lg">
-                        Fringilla risus, luctus mauris orci auctor purus ligula
-                        euismod pretium purus pretium rutrum tempor sapien
+                      Revenue data is available on the Internet only for publicly traded companies. So, if it's missing, it means that no trusted source has declared the company's revenue. 
                       </p>
                     </li>
                     <li className="list-item">
