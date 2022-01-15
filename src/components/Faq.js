@@ -60,12 +60,6 @@ When you're in this situation, click on the "Ask Us" on the dashboard under the 
                       Revenue data is available on the Internet only for publicly traded companies. So, if it's missing, it means that no trusted source has declared the company's revenue. 
                       </p>
                     </li>
-                    <li className="list-item">
-                      <p className="p-lg">
-                        Nemo ipsam egestas volute turpis dolores ut aliquam
-                        quaerat sodales sapien undo pretium a purus
-                      </p>
-                    </li>
                   </ul>
                 </div>
               </div>
@@ -77,44 +71,30 @@ When you're in this situation, click on the "Ask Us" on the dashboard under the 
                 {/* QUESTION #4 */}
                 <div className="question wow fadeInUp">
                   {/* Question */}
-                  <h5 className="h5-md">Do you have a free trial?</h5>
+                  <h5 className="h5-md">Can I see AUSAVI in action before purchasing?</h5>
                   {/* Answer */}
                   <p className="p-lg">
-                    Cubilia laoreet augue egestas and luctus donec curabite diam
-                    vitae dapibus libero and quisque gravida donec and neque.
-                    Blandit justo aliquam molestie nunc sapien
+                  Yes you can access the trial version of Ausavi before purchasing. Please contact us for further queries.
                   </p>
                 </div>
                 {/* QUESTION #5 */}
                 <div className="question wow fadeInUp">
                   {/* Question */}
-                  <h5 className="h5-md">Proident ea eu laboris sunt voluptate laboris exercitation reprehenderit do cillum aliquip dolore incididunt.?</h5>
+                  <h5 className="h5-md">How many users can use Ausavi at a time?</h5>
                   {/* Answer */}
                   <p className="p-lg">
-                    Etiam amet mauris suscipit sit amet in odio. Integer congue
-                    leo metus. Vitae arcu mollis blandit ultrice ligula
-                  </p>
-                  {/* Answer */}
-                  <p className="p-lg">
-                    An enim nullam tempor sapien gravida donec congue leo metus.
-                    Vitae arcu mollis blandit integer at velna
+                  Ausavi is limited to a single-user product. One user can log in only once at a time. Buying for your organization? Please contact us for details.
                   </p>
                 </div>
                 {/* QUESTION #6 */}
                 <div className="question wow fadeInUp">
                   {/* Question */}
-                  <h5 className="h5-md">Sit ipsum aliqua consequat sunt occaecat esse cillum culpa fugiat.</h5>
+                  <h5 className="h5-md">What details will I get for a particular company?</h5>
                   {/* Answer */}
                   <ul className="simple-list">
                     <li className="list-item">
                       <p className="p-lg">
-                        Fringilla risus, luctus mauris orci auctor purus
-                      </p>
-                    </li>
-                    <li className="list-item">
-                      <p className="p-lg">
-                        Quaerat sodales sapien euismod blandit purus and ipsum
-                        primis in cubilia laoreet augue luctus
+                      Ausavi provides you with all exclusive details including funding and leads at the top management level of the company. You can opt for a trial version for hands-on experience. 
                       </p>
                     </li>
                   </ul>

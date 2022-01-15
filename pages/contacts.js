@@ -57,8 +57,7 @@ const contacts = () => {
                         <h5 className="h5-md">View Pricing</h5>
                         {/* Text */}
                         <p className="p-lg">
-                          Porta semper lacus cursus feugiat primis ultrice
-                          ligula risus at auctor tempus
+                          Check out our various pricing plan and find the one that suits your needs.
                         </p>
                       </div>
                     </div>
@@ -83,8 +82,7 @@ const contacts = () => {
                         <h5 className="h5-md">Read the FAQs</h5>
                         {/* Text */}
                         <p className="p-lg">
-                          Porta semper lacus cursus feugiat primis ultrice
-                          ligula risus at auctor tempus
+                          Check out our FAQs section to find answers to most commonlty asked questions.
                         </p>
                       </div>
                     </div>

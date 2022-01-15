@@ -98,7 +98,7 @@ const Header = ({
                 </li> */}
                 {/* HEADER BUTTON */}
                 <li className="nl-simple">
-                  <Link href={`${"#content-4"}`}>
+                  <Link href={`${"/contacts"}`}>
                     <a
                       className={`btn ${
                         btnCustomHover
@@ -106,7 +106,7 @@ const Header = ({
                           : "btn-tra-white orange-red-hover"
                       } last-link`}
                     >
-                      {getStartText ? "Get Started" : "Get Started"}
+                      {getStartText ? "Contact Us" : "Contact Us"}
                     </a>
                   </Link>
                 </li>

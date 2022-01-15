@@ -22,11 +22,11 @@ const Demo7content3 = () => {
             <div className="col-md-7 col-lg-6">
               <div className="txt-block right-column wow fadeInLeft">
                 {/* Section ID */}
-                <span className="section-id rounded-id bg-tra-purple purple-color txt-upcase">
+                <span className="section-id rounded-id bg-tra-blue blue-color txt-upcase">
                   Contact Us
                 </span>
                 {/* Title */}
-                <h2 className="h2-xs">Leave us a mail here<h2 className="h2-xl blue-color">business@ausavi.com</h2>and we'll get back to you as aoon as possible</h2>
+                <h2 className="h2-xs">Leave us a mail here<h2 className="h2-xl blue-color">contact@ausavi.com</h2>and we'll get back to you as aoon as possible</h2>
                 {/* Text */}
                 
               </div>
