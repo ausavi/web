@@ -21,7 +21,7 @@ const Demo6hero6 = () => {
                 name="quickform"
                 className="quick-form shadow-form"
                 onSubmit={(e) => e.preventDefault()}
-              >
+              > 
                 {/* Form Inputs */}
                 <div className="input-group">
                   <input
