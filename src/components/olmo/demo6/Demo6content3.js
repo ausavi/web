@@ -15,7 +15,7 @@ const Demo6content3 = () => {
               <div className="img-block left-column wow fadeInRight">
                 <img
                   className="img-fluid"
-                  src="/images/img-09.png"
+                  src="/images/img-07.png"
                   alt="content-image"
                 />
               </div>

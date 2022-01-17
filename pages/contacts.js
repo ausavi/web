@@ -67,7 +67,7 @@ const contacts = () => {
               {/* END BOX #1 */}
               {/* BOX #2 */}
               <div className="col">
-                <Link href="/faqs">
+                <Link href="/#">
                   <a>
                     <div className="cta-box bg-white wow fadeInUp">
                       {/* Icon */}

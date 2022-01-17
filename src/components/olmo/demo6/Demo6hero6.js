@@ -1,3 +1,5 @@
+import Link from "next/dist/client/link";
+
 const Demo6hero6 = () => {
   return (
     <section id="hero-6" className="hero-section division">
@@ -31,12 +33,17 @@ const Demo6hero6 = () => {
                     required
                   />
                   <span className="input-group-btn form-btn">
-                    <button
-                      type="submit"
-                      className="btn btn-md btn-stateblue black-hover submit"
-                    >
-                      Get Started
-                    </button>
+                    
+                <Link href="/contacts">
+                <button
+
+className="btn btn-md btn-stateblue black-hover submit"
+>
+
+Get Started
+</button>
+                </Link>
+                    
                   </span>
                 </div>
                 {/* Form Message */}

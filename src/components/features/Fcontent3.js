@@ -12,7 +12,7 @@ const Fcontent3 = () => {
           <div className="row d-flex align-items-center">
             {/* IMAGE BLOCK */}
             <div className="col-md-5 col-lg-6">
-              <div className="img-block left-column wow fadeInRight">
+              <div className="img-block img-bb left-column wow fadeInRight">
                 <img
                   className="img-fluid"
                   src="/images/img-09.png"
@@ -26,14 +26,20 @@ const Fcontent3 = () => {
                 {/* Section ID */}
                 <span className="section-id txt-upcase">Totally Optimized</span>
                 {/* Title */}
-                <h2 className="h2-xs">Accelerate your business's growth with Ausavi's cutting-edge features.</h2>
+                <h2 className="h2-xs">See top preferred companies based on our buying signals.</h2>
                 {/* Text */}
                 <p className="p-lg">
-                Our solutions cut through the clutter with actionable insights built on a solid foundation of technical knowledge, allowing you to improve every element of your Go-To-Market strategy. These trustworthy insights enable sales, marketing, product, and strategy teams to make more informed choices.
+                <b>Sales Growth</b> - it is the most fundamental profitability measure. A firm with a high EPS is considered more lucrative.
                 </p>
                 {/* Text */}
                 <p className="p-lg">
-                We keep an eye on the digital infrastructure of more than 9 million businesses around the world to figure out what technology they use, how much they spend on technology, and when their contracts are up. This gives you the information you need to go to market.
+                <b>Employee Expense Growth</b> - is one of the key indicator that shows growth over a period of time.
+                </p>
+                <p className="p-lg">
+                <b>Fixed Asset Growth</b> - ratio reveals how efficient a company is at generating sales from its existing fixed assets.
+                </p>
+                <p className="p-lg">
+                <b>Profit Growth</b> - is an indicator of how profitable a company is relative to its assets or the resources it owns or controls.
                 </p>
               </div>
             </div>

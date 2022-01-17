@@ -15,7 +15,7 @@ const features = () => {
     <Layout
       btnCustomHover="btn btn-skyblue tra-grey-hover last-link"
       singlePage
-    >
+    > 
       <Fcontent1 />
       <Fcontent3 />
       {/* <Freviews1 /> */}

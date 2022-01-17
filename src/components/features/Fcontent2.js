@@ -10,10 +10,10 @@ const Fcontent2 = () => {
         <div className="row d-flex align-items-center">
           {/* IMAGE BLOCK */}
           <div className="col-md-5 col-lg-6">
-            <div className="rel img-block left-column video-preview wow fadeInRight">
+            <div className="rel img-bb img-block left-column video-preview wow fadeInRight">
             <img
                 className="img-fluid"
-                src="/images/img-08.png"
+                src="/images/ll.png"
                 alt="content-image"
               />
             </div>
@@ -24,24 +24,45 @@ const Fcontent2 = () => {
               {/* Section ID */}
               <span className="section-id txt-upcase">Seamless Integrations</span>
               {/* Title */}
-              <h2 className="h2-xs">Connect Ausavi seamlessly to your other applications.</h2>
+              <h2 className="h2-xs">Filter leads and comapanies based on your preferneces</h2>
               {/* List */}
               <ul className="simple-list">
                 <li className="list-item">
-                  <p className="p-lg">
-                  One-click integrations that automate data entry, allowing you to spend more time nurturing and converting prospects.  Increase productivity instantly.
-                  </p>
+                  <h4 className="p-lg">
+                  📜Company Name
+                  </h4>
                 </li>
                 <li className="list-item">
-                  <p className="p-lg">
-                  Ausavi Integrations automate administrative tasks without interfering with your existing procedures.
-                  </p>
+                  <h4 className="p-lg">
+                  📜Lead Designation
+                  </h4>
                 </li>
                 <li className="list-item">
-                  <p className="p-lg">
-                  To ensure that your database is always squeaky clean and full of boiling hot leads, Ausavi saves contacts in bulk directly to your CRM and populate the relevant field with the right data.
-                  </p>
+                  <h4 className="p-lg">
+                  📜Lead Location
+                  </h4>
                 </li>
+                <li className="list-item">
+                  <h4 className="p-lg">
+                  📜Industry Name
+                  </h4>
+                </li>
+                <li className="list-item">
+                  <h4 className="p-lg">
+                  📜Industry Group
+                  </h4>
+                </li>
+                <li className="list-item">
+                  <h4 className="p-lg">
+                  📜Company type
+                  </h4>
+                </li>
+                <p className="p-lg">
+                  
+                </p>
+                  <p className="p-lg">
+                  🔅 Save your applied filter, no need to remmember filters ever again.
+                  </p>
               </ul>
             </div>
           </div>{" "}
