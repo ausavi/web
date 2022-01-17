@@ -80,7 +80,7 @@ const Demo6content3 = () => {
                   {/* CB BOX #1 */}
                   <div className="cb-single-box">
                     <h5 className="h2-title-xs statistic-number">
-                    We offer the following details to identify the companies by
+                    Identify the best of companies from your set preferences with our buying signals based on:
                     </h5>
                   </div>
                   <hr />
