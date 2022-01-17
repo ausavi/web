@@ -87,7 +87,7 @@ const Fcontent3 = () => {
                   <div className="cb-single-box">
                     <p className="p-lg cb-header">Assist your search with Ausavi's ranking of firms based on signal strength,</p>
                     <h5 className="h2-title-xs statistic-number">
-                    We offer the following details to identify the companies by
+                    Identify the best of companies from your set preferences with our buying signals based on:
                     </h5>
                   </div>
                   <hr />
