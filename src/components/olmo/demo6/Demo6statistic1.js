@@ -24,7 +24,7 @@ const Demo6statistic1 = () => {
             <div id="sb-1-2" className="col">
               <div className="statistic-block wow fadeInUp">
                 {/* Text */}
-                <h5 className="h5-lg">Approach any CEO</h5>
+                <h5 className="h5-lg">Approach relevant people at higher management level</h5>
                 {/* Text */}
                 <p className="p-lg">
                 Visit any company's website to instantly access enriched personnel data and communicate with decision makers.
