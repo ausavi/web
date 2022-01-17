@@ -1,5 +1,5 @@
 # Ausavi 💻
-Ausavi web development project
+Ausavi website
 
 ### Getting started 🚀
 ```bash
