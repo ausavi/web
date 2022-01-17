@@ -60,7 +60,7 @@ const Fcontent3 = () => {
                   <p className="p-lg">
                   During the sales process, the decision maker is the individual who can make the authoritative decision to make a purchase without having to confer to anyone else. In B2B sales, they are typically in the C-suite and sign the check when the sale is made.
                   </p>
-                  <h5>You will have the following details to identify the leads by</h5>
+                  <h5>Precise data points to Identify the lead: </h5>
                   <p className="p-lg">
                   <ul>
                     <b>
