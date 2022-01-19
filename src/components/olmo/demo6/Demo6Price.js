@@ -36,6 +36,7 @@ const Demo6Price = () => {
                       <span>5000</span> / month
                     </sup>
                     <p className="p-sm">100 credits &bull; <i>1 credit ≈ ₹ 50</i></p>
+                    <p className="p-sm">Credit rate: ₹ 75 &bull; <i>max credit : 5000</i></p>
                   </div>
                   {/* Plan Features  */}
                   <ul className="features">
@@ -86,6 +87,7 @@ const Demo6Price = () => {
                       <span>12000</span> / quarter
                     </sup>
                     <p className="p-sm">240 credits &bull; <i>1 credit ≈ ₹ 50</i></p>
+                    <p className="p-sm">Credit rate: ₹ 75 &bull; <i>max credit : 5000</i></p>
                   </div>
                   {/* Plan Features  */}
                   <ul className="features">
@@ -135,6 +137,7 @@ const Demo6Price = () => {
                       <span>45000</span> / year
                     </sup>
                     <p className="p-sm">900 credits &bull; <i>1 credit ≈ ₹ 50</i></p>
+                    <p className="p-sm">Credit rate: ₹ 75 &bull; <i>max credit : 5000</i></p>
                   </div>
                   {/* Plan Features  */}
                   <ul className="features">
